@@ -1,0 +1,2 @@
+
+myLuckyNumber <- 89
